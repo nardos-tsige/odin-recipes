@@ -8,7 +8,7 @@ A simple HTML recipe website built as part of [The Odin Project](https://www.the
 
 ## Live Demo
 
-[View Live Demo](#) ()
+[View Live Demo](#) (https://github.com/nardos-tsige/odin-recipes)
 
 ## Features
 
@@ -54,3 +54,4 @@ This project helped me practice:
 ---
 
 _This project is part of my journey through The Odin Project curriculum._
+
